@@ -1,0 +1,17 @@
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\bin\Debug\net6.0\Maxim.Business.deps.json
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\bin\Debug\net6.0\Maxim.Business.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\bin\Debug\net6.0\Maxim.Business.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\bin\Debug\net6.0\Maxim.Core.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\bin\Debug\net6.0\Maxim.Data.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\bin\Debug\net6.0\Maxim.Data.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\bin\Debug\net6.0\Maxim.Core.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\obj\Debug\net6.0\Maxim.Business.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\obj\Debug\net6.0\Maxim.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\obj\Debug\net6.0\Maxim.Business.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\obj\Debug\net6.0\Maxim.Business.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\obj\Debug\net6.0\Maxim.Business.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\obj\Debug\net6.0\Maxim.Business.csproj.CopyComplete
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\obj\Debug\net6.0\Maxim.Business.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\obj\Debug\net6.0\refint\Maxim.Business.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\obj\Debug\net6.0\Maxim.Business.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Business\obj\Debug\net6.0\ref\Maxim.Business.dll

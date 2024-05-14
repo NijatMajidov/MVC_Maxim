@@ -1,0 +1,17 @@
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\bin\Debug\net6.0\Maxim.Data.deps.json
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\bin\Debug\net6.0\Maxim.Data.runtimeconfig.json
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\bin\Debug\net6.0\Maxim.Data.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\bin\Debug\net6.0\Maxim.Data.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\bin\Debug\net6.0\Maxim.Core.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\bin\Debug\net6.0\Maxim.Core.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\obj\Debug\net6.0\Maxim.Data.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\obj\Debug\net6.0\Maxim.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\obj\Debug\net6.0\Maxim.Data.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\obj\Debug\net6.0\Maxim.Data.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\obj\Debug\net6.0\Maxim.Data.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\obj\Debug\net6.0\Maxim.Data.csproj.CopyComplete
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\obj\Debug\net6.0\Maxim.Data.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\obj\Debug\net6.0\refint\Maxim.Data.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\obj\Debug\net6.0\Maxim.Data.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\obj\Debug\net6.0\Maxim.Data.genruntimeconfig.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\Maxim.NET-v6\Maxim.Data\obj\Debug\net6.0\ref\Maxim.Data.dll

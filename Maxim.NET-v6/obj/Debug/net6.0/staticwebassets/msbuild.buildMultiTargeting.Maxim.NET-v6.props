@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Maxim.NET-v6.props" />
+</Project>
